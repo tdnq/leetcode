@@ -1,0 +1,20 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "leetcode算法题",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tdnq/leetcode.git"
+  },
+  "keywords": [],
+  "author": "tdnq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tdnq/leetcode/issues"
+  },
+  "homepage": "https://github.com/tdnq/leetcode#readme"
+}
